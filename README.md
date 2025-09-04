@@ -10,9 +10,9 @@ Este é um projeto desenvolvido como parte de um desafio de programação na fac
 - Cálculo do subtotal de cada item e total geral da compra  
 - Aplicação de desconto de acordo com a forma de pagamento:
   - **À vista:**
-    - 15% de desconto para compras acima de R$200
-    - 10% de desconto entre R$100 e R$200
-    - Sem desconto abaixo de R$100
+  - 15% de desconto para compras acima de R$200
+  - 10% de desconto entre R$100 e R$200
+  - Sem desconto abaixo de R$100
   - **Cartão de crédito:** sem desconto  
 - Exibição de relatório final detalhado da compra
 
