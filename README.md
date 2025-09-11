@@ -68,6 +68,6 @@ Desconto aplicado: 0%
 Total final a pagar: R$ 70.00
 ```
 
-## ✍️ Autor Carlos Aguiar 
-- LinkedIn: https://www.linkedin.com/in/carloskotlin 
-- GitHub: https://github.com/carloskotlin
+**Carlos Aguiar da Silva**  
+- GitHub: [carlostechcode](https://github.com/carlostechcode)  
+- LinkedIn: [Carlos Aguiar](https://www.linkedin.com/in/carlostechcode)
